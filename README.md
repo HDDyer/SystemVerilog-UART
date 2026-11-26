@@ -83,7 +83,7 @@ To use the UART transmitter or receiver on their own, you can download the desig
 
 ## Troubleshooting
 
-If the serial output displays ` ` or other unexpected characters, check the following:
+If the serial output displays `�` or other unexpected characters, check the following:
 
 - Check the baud rate between the FPGA and serial monitor.
 - Check parity configuration matches.
