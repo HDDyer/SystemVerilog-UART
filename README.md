@@ -16,8 +16,8 @@ This core requires two parameters. Ensure that the `BAUD_RATE` matches the setti
 |---|---|---|
 | `BAUD_RATE` | `115_200` | Line bit rate |
 | `CLOCK_FREQ` | `27_000_000` | System clock (default on TANG PRIMER 20K) |
-|`PARITY_EN`	|0|	|Enables parity when set to 1|
-|`PARITY_ODD`	|0|	|Selects odd parity when set to 1|
+|`PARITY_EN`	|0| Enables parity when set to 1|
+|`PARITY_ODD`	|0| Selects odd parity when set to 1|
 
 ## Interface
 
